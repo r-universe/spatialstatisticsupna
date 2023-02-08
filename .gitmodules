@@ -8,3 +8,8 @@
 	url = https://github.com/spatialstatisticsupna/bigdm
 	shallow = true
 	registered = true
+[submodule "RGISTools"]
+	path = RGISTools
+	url = https://github.com/spatialstatisticsupna/rgistools
+	shallow = true
+	registered = true
