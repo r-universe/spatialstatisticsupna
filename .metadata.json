@@ -1,9 +1,0 @@
-[
-  {
-    "package": "bigDM",
-    "oncran": true
-  },
-  {
-    "package": "RGISTools"
-  }
-]
